@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rodger ",
+      "gender": "Male",
+      "email": "rodger@gmail.com",
+      "phoneNumber": "+1234567",
+      "contactPreference": "Phone",
+      "dateOfBirth": "10/25/1983",
+      "department": "5",
+      "isActive": true,
+      "photoPath": "assets/images/rodger.jpg",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": 2,
+      "name": "Zeuce",
+      "gender": "Female",
+      "email": "zeuce@gmail.com",
+      "phoneNumber": "+1234567",
+      "contactPreference": "Phone",
+      "dateOfBirth": "10/25/1999",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/zeuce.jpg",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": 3,
+      "name": "yamin",
+      "gender": "Male",
+      "email": "yamin@gmail.com",
+      "phoneNumber": "+1234567",
+      "contactPreference": "Phone",
+      "dateOfBirth": "10/25/1992",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/yamin.jpg",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
