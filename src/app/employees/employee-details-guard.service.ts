@@ -1,4 +1,4 @@
-import { Observable } from 'rxjs/RX';
+import { Observable } from 'rxjs';
 import { catchError } from 'rxjs/operators';
 import { EmployeeService } from './employee.service';
 import { CanActivate, Router } from '@angular/router';
